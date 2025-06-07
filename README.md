@@ -11,7 +11,7 @@ Saya adalah seorang **Network Enthusiast** yang bersemangat di bidang **Jaringan
 ![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge&logo=cisco)
 ![Keamanan Siber](https://img.shields.io/badge/Keamanan_Siber-red?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Troubleshooting Jaringan](https://img.shields.io/badge/Troubleshooting_Jaringan-blueviolet?style=for-the-badge)
 ![Konfigurasi Firewall Dasar](https://img.shields.io/badge/Konfigurasi_Firewall_Dasar-green?style=for-the-badge)
@@ -30,6 +30,12 @@ Saya adalah seorang **Network Enthusiast** yang bersemangat di bidang **Jaringan
 ### Statistik GitHub:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mack3nzie-ai&show_icons=true&theme=radical&hide_border=true)](https://github.com/mack3nzie-ai/github-readme-stats)
+
+---
+
+### Bahasa Pemrograman yang Sering Digunakan:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mack3nzie-ai&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
