@@ -30,16 +30,16 @@ Saya adalah seorang **Network Enthusiast** yang bersemangat di bidang **Jaringan
 ## 📊 Engineering & AI Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack3nzie-ai&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack3nzie-ai&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mack3nzie-ai&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mack3nzie-ai&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mack3nzie-ai&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mack3nzie-ai&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mack3nzie-ai&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mack3nzie-ai&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mack3nzie-ai&theme=github_dark&utcOffset=7"/>
 </p>
 
