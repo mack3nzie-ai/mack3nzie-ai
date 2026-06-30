@@ -27,15 +27,20 @@ Saya adalah seorang **Network Enthusiast** yang bersemangat di bidang **Jaringan
 
 ---
 
-## 📊 **Engineering & AI Activity Stats**  
+## 📊 Engineering & AI Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mack3nzie-ai&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=15&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mack3nzie-ai&layout=compact&langs_count=8&theme=vision-friendly-dark&border_radius=15&hide_border=true" height="150" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack3nzie-ai&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mack3nzie-ai&theme=vision-friendly-dark&hide_border=true&border_radius=15" height="150" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mack3nzie-ai&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mack3nzie-ai&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mack3nzie-ai&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mack3nzie-ai&theme=github_dark&utcOffset=7"/>
 </p>
 
 ---
