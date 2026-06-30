@@ -27,16 +27,16 @@ Saya adalah seorang **Network Enthusiast** yang bersemangat di bidang **Jaringan
 
 ---
 
-## 📊 **GitHub War Stats**  
+## 📊 **Engineering & AI Activity Stats**  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mack3nzie-ai&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=20&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mack3nzie-ai&layout=compact&langs_count=8&theme=vision-friendly-dark&border_radius=20&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mack3nzie-ai&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=15&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mack3nzie-ai&layout=compact&langs_count=8&theme=vision-friendly-dark&border_radius=15&hide_border=true" height="175" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mack3nzie-ai&theme=vision-friendly-dark&hide_border=true&border_radius=20" alt="mack3nzie-ai" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mack3nzie-ai&theme=vision-friendly-dark&hide_border=true&border_radius=15" width="100%" max-width="800" alt="GitHub Streak" />
+</p>
 
 ---
 
